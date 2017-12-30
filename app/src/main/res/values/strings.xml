@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="general_section">GENERAL</string>
+    <string name="switches_section">SWITCHES</string>
+    <string name="motion_detectors_section">MOTION DETECTORS</string>
+    <string name="garage_section" translatable="false">GARAGE</string>
+    <string name="light_label">Light Status:</string>
+    <string name="motion_detector_label">Motion Detector Status:</string>
+    <string name="living_room_label">Living Room</string>
+    <string name="kitchen_room_label">Kitchen Room</string>
+    <string name="bedroom_label">Bedroom</string>
+    <string name="not_available" translatable="false">N/A</string>
+    <string name="heater_label">Heater</string>
+    <string name="status_label">Heater</string>
+    <string name="alarm_label">Alarm</string>
+    <string name="armed_label">Armed</string>
+    <string name="active_label">Active</string>
+    <string name="kitchen_light_label">Kitchen Light</string>
+    <string name="living_room_light_label">Living Room Light</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connection_status">Status:</string>
+    <string name="connected">Connected</string>
+    <string name="error">Error</string>
+    <string name="attempting_reconnect">Reconnecting</string>
+</resources>
